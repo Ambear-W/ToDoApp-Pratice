@@ -1,3 +1,9 @@
+# Disclaimer
+
+I am using a tutorial by Coding With Dawid on Youtube. This is solely so I can get some more React pratice before I start to code up my own To Do App.
+
+If you want to view the tutorial yourself, here is the link: https://www.youtube.com/watch?v=QdTHUv79EZc
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
